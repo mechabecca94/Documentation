@@ -7,7 +7,7 @@
 
 Documentation/...
 
-|Table-of-contents-tableau-des-matieres.md : Contains File Folder Structure  
+|Table-of-contents-tableau-des-matières.md : Contains File Folder Structure  
 |  
 |Markdown-Directions.md : Contains markdown directions for documentation protocol  
 |   
