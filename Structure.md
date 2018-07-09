@@ -2,7 +2,7 @@
 
 Documentation/...
 
-|Information.md : Contains File Folder Structure  
+|Structure.md : Contains File Folder Structure  
 |  
 |Markdown-Directions.md : Contains markdown directions for documentation protocol  
 |   
