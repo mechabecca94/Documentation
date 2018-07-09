@@ -1,4 +1,4 @@
-# Information
+# Structure
 
 Documentation/...
 
