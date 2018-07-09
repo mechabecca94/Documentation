@@ -1,7 +1,11 @@
 
 # Table of Contents
 
+## 1.0 Prototypes
+### 1.1 Test
 
+## 2.0 Workshops / Ateliers
+### 2.1 Test
 
 # File Structure
 
