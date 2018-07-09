@@ -7,11 +7,11 @@ Documentation/
 |Markdown-Directions.md : Contains markdown directions for documentation protocol 
 |  
 |-----Workshops-Ateliers : Contains documentation for workshops  
-|&nbsp;&nbsp;&nbsp;&nbsp;└───day-month-year : Folder for project by date   
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearEN : English workshop documentation  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearFR : Documentation pour des ateliers en français  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───day-month-year : Folder for project by date   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearEN : English workshop documentation  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearFR : Documentation pour des ateliers en français  
 |  
 |-----Prototypes :   
 |&nbsp;&nbsp;&nbsp;&nbsp;└───day-month-year : Folder for project by date   
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearEN : English prototype documentation  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearFR : Documentation pour des prototypes en français  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearEN : English prototype documentation  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;day-month-yearFR : Documentation pour des prototypes en français  
