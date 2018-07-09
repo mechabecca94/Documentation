@@ -1,2 +1,3 @@
-# How to use Github and Markdown
+# Process for project documentation
+
 
