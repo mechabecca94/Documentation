@@ -1,17 +1,20 @@
 
 # Table of Contents
+## Prototypes
+## Workshops
+## File Structure
 
-## 1.0 Prototypes
+### 1.0 Prototypes
 ### 1.1 Test
 
 [Back to top]()
 
-## 2.0 Workshops / Ateliers
+### 2.0 Workshops / Ateliers
 ### 2.1 Test
 
 [Back to top]()
 
-## 3.0 File Structure
+### 3.0 File Structure
 
 Documentation/...
 
